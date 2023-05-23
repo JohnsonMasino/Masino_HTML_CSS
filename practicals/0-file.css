@@ -1,0 +1,51 @@
+/**
+ * This .css file is the
+ * designing of the 0-file.html file
+ * Check it out please
+ */
+
+.class0 {
+	font: #ffaadd;
+	background: red;
+	text: bold;
+}
+
+.class1 {
+	font: blue;
+	background: pink;
+	text: small;
+}
+
+.class2 {
+	font: green;
+	background: orange;
+	text: purple;
+}
+
+.header {
+	background: red;
+	text: small;
+	color: black;
+	font-size: 15px;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+}
+
+.footer {
+	background: green;
+	font-size: 15px;
+	color: black;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+
+.githublink {
+	color: black;
+	font-size: 14px
+
+
+/*
+ * Code developed by Masino
+ */
