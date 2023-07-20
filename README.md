@@ -3,6 +3,7 @@
 >>LANGUAGES
 0. HTML
 1. CSS
+2. JavaScript
 
 >>AUTHOR
 Johnson Masino
